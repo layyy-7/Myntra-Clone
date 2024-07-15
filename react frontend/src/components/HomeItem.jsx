@@ -1,5 +1,5 @@
 import {useDispatch, useSelector} from "react-redux"
-import bagSlice from "../store/BagSlice";
+import bagSlice from "../store/bagSlice";
 
 function HomeItem({item})
 {
